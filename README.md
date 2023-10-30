@@ -1,2 +1,2 @@
-# KitagawaMarin
-For "get badge" use
+# УЛЬТРА МЕГА НАСРАЛ В PYTHON
+Не забудь установить Discord.py чтобы всё работало
